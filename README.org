@@ -1,0 +1,10 @@
+* ayo wth is this
+  I made a clock. It could even be a widget, if I put more work in.
+
+* installation
+  idk man its a python file figure it out.
+  MinuteClock.pyw should honestly be renamed and its the main one.
+  waveClock has an extendohand.
+
+* future of this project?
+  It will Not Suck (preferably). see TODOs in MinuteClock.pyw.
