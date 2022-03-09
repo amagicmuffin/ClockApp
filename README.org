@@ -3,6 +3,7 @@
 
 * installation
   idk man its a python file figure it out.
+  made on windows for windows.
   MinuteClock.pyw should honestly be renamed and its the main one.
   waveClock has an extendohand.
 
