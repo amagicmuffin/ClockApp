@@ -18,6 +18,7 @@ application that makes a clock with only a minute hand
 for windows
 
 * TODO
+  + move configs to a config file (that means most or all of the constants)
   + implement transparency to make this a widget [working on it]
     + https://youtu.be/q0Hq5YgwSGU
     + also: https://www.reddit.com/r/pygame/comments/pgo6l8/transparent_window_using_pygame/
@@ -63,7 +64,7 @@ def getMinAngle():
 
 
 def getHrAngle():
-    """returns angle of clock hour hand in radians"""
+    """:returns: angle of clock hour hand in radians"""
     # TODO i think this is broekn
     # get current time in (float) minutes
     ans = int(strftime("%H"))
