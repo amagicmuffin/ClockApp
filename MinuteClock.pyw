@@ -18,6 +18,7 @@ application that makes a clock with only a minute hand
 for windows
 
 * TODO
+  + hour hand is broken [will fix once i feel like doing more math]
   + move configs to a config file (that means most or all of the constants)
   + implement transparency to make this a widget [working on it]
     + https://youtu.be/q0Hq5YgwSGU
